@@ -1,0 +1,9 @@
+:root {
+  --rpsUser: #008DD5;
+}
+
+body {
+  background: black;
+  color: var(--rpsUser);
+}
+/*# sourceMappingURL=main.css.map */
